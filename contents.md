@@ -5,7 +5,7 @@
 # 1 Introduction
 - 1.1 Literate Programming
 - 1.2 Photorealistic Rendering and the Ray-Tracing Algorithm
-**1.3 pbrt: System Overview**
+- **1.3 pbrt: System Overview**
 - 1.4 Parallelization of pbrt
 - 1.5 How to Proceed through This Book
 - 1.6 Using and Understanding the Code
