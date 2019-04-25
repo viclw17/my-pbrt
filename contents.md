@@ -14,10 +14,10 @@
 - Exercises
 # 2 Geometry and Transformations
 - **2.1 Coordinate Systems**
-- _2.2 Vectors_
-- _2.3 Points_
-- _2.4 Normals_
-- _2.5 Rays_
+- 2.2 Vectors
+- 2.3 Points
+- 2.4 Normals
+- 2.5 Rays
 - **2.6 Bounding Boxes**
 - **2.7 Transformations**
 - 2.8 Applying Transformations
